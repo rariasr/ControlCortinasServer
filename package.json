@@ -4,6 +4,10 @@
     "author": "rodrigo arias",
     "description": "Controlor remoto IR via mensajes PUSH",
     "license": "UNLICENSED",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rariasr/ControlCortinasServer"
+    },
     "dependencies": {
         "mongoose": "~3.6.11",
         "express": "^4.7.1",
